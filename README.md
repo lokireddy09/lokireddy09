@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 
+Key Skills: 
+Data Visualization
+Data Engineering
+Statistical Analysis
+Machine Learning
+Artificial Intelligence
+Software Development
+Leadership and Management
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
