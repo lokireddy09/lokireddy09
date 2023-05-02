@@ -12,7 +12,6 @@ Key Skills:
 
 Technologies: Python, C, MATLAB, SQL, Mysql, Tableau
 
-📫 To reach me and know how I can be a value to your organization: lokeshreddy09@gmail.com
 <!--
 **lokireddy09/lokireddy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
