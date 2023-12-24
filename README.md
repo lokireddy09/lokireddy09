@@ -1,16 +1,18 @@
-### Hello geeks👋 I am a experienced MS Engineer with a demonstrated history of working in the information technology who can do machine learning model developing and data analysis.
+### Hello Geeks 👋
+I am an experienced software engineer and data science professional with 3+ years of experience building data pipelines, machine learning models, and data visualizations.
 
-I have efficient knowledge in statistical analysis, data modeling, and communication and team building.
+I have a Master's in Computer Science with coursework focused on machine learning, data mining, and artificial intelligence. My expertise includes:
 
-Key Skills: 
-- Data Visualization
-- Data Engineering
-- Statistical Analysis
-- Machine Learning
-- Artificial Intelligence
-- Leadership and Management
+Data Engineering: ETL pipelines, data modeling, database design, SQL, AWS
+Machine Learning: model development, NLP, computer vision
+Data Visualization: Tableau, matplotlib, dashboards
+Full Stack Web Development: Python, JavaScript, React, Django, Docker
+Technical Skills
+Languages: Python, JavaScript, C, SQL
 
-Technologies: Python, C, MATLAB, SQL, Mysql, Tableau
+Libraries & Frameworks: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Django, Flask, React
+
+Tools & Infrastructure: Git, AWS (S3, EC2, RDS), Tableau, PostgreSQL, MySQL, MongoDB, Docker
 
 <!--
 **lokireddy09/lokireddy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
