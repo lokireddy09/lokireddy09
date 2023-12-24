@@ -8,7 +8,8 @@ Machine Learning: model development, NLP, computer vision
 Data Visualization: Tableau, matplotlib, dashboards
 Full Stack Web Development: Python, JavaScript, React, Django, Docker
 
-Technical Skills
+Technical Skills -
+
 Languages: Python, JavaScript, C, SQL
 Libraries & Frameworks: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Django, Flask, React
 Tools & Infrastructure: Git, AWS (S3, EC2, RDS), Tableau, PostgreSQL, MySQL, MongoDB, Docker
